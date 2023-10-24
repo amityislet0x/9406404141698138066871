@@ -1,0 +1,590 @@
+{
+  "project_info": {
+    "project_number": "280221193821",
+    "project_id": "big-deal-efad4",
+    "storage_bucket": "big-deal-efad4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280221193821:android:66db444454f7f4efbc5fb4",
+        "android_client_info": {
+          "package_name": "com.bigdeal.Alltitanskibidimod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3F_Z470JHGeb_gzmChKYVq1rkTosgqHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280221193821:android:8dbb06926a236114bc5fb4",
+        "android_client_info": {
+          "package_name": "com.bigdeal.cameramanskibidimelmod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3F_Z470JHGeb_gzmChKYVq1rkTosgqHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280221193821:android:f344e9f373c88be0bc5fb4",
+        "android_client_info": {
+          "package_name": "com.bigdeal.camerawomanskibidimod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3F_Z470JHGeb_gzmChKYVq1rkTosgqHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280221193821:android:291c063cf0f7f3c2bc5fb4",
+        "android_client_info": {
+          "package_name": "com.bigdeal.freddymodmelon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3F_Z470JHGeb_gzmChKYVq1rkTosgqHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280221193821:android:e9e9c17a730af917bc5fb4",
+        "android_client_info": {
+          "package_name": "com.bigdeal.milesmoralesmodmelmod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3F_Z470JHGeb_gzmChKYVq1rkTosgqHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280221193821:android:253fad4a3acbd776bc5fb4",
+        "android_client_info": {
+          "package_name": "com.bigdeal.minecraftmodmelmod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3F_Z470JHGeb_gzmChKYVq1rkTosgqHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280221193821:android:83b6329af30f1696bc5fb4",
+        "android_client_info": {
+          "package_name": "com.bigdeal.rainbowfriendsmelmod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3F_Z470JHGeb_gzmChKYVq1rkTosgqHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280221193821:android:b5258095099c40bfbc5fb4",
+        "android_client_info": {
+          "package_name": "com.bigdeal.rainbowfriendsmodmelmod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3F_Z470JHGeb_gzmChKYVq1rkTosgqHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280221193821:android:3163803e5ac0ced1bc5fb4",
+        "android_client_info": {
+          "package_name": "com.bigdeal.skibidicameramanmod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3F_Z470JHGeb_gzmChKYVq1rkTosgqHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280221193821:android:d8d2633a7d087503bc5fb4",
+        "android_client_info": {
+          "package_name": "com.bigdeal.skibidimodmelmod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3F_Z470JHGeb_gzmChKYVq1rkTosgqHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280221193821:android:14b0971eca01f87dbc5fb4",
+        "android_client_info": {
+          "package_name": "com.bigdeal.smurfcatmodmelmod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3F_Z470JHGeb_gzmChKYVq1rkTosgqHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280221193821:android:afa49daea7334b49bc5fb4",
+        "android_client_info": {
+          "package_name": "com.bigdeal.speakermanmodmelmod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3F_Z470JHGeb_gzmChKYVq1rkTosgqHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280221193821:android:d72163dd449c41d7bc5fb4",
+        "android_client_info": {
+          "package_name": "com.bigdeal.speakerwomanmodmelmod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3F_Z470JHGeb_gzmChKYVq1rkTosgqHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280221193821:android:fe91bb3156f6e3d1bc5fb4",
+        "android_client_info": {
+          "package_name": "com.bigdeal.superheromodmelmod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3F_Z470JHGeb_gzmChKYVq1rkTosgqHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280221193821:android:b7413174cf18615fbc5fb4",
+        "android_client_info": {
+          "package_name": "com.bigdeal.tvmanskibidimodmelmod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3F_Z470JHGeb_gzmChKYVq1rkTosgqHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280221193821:android:b3668b4e8ab3861cbc5fb4",
+        "android_client_info": {
+          "package_name": "com.bigdeal.tvmanskibidimodmelmod2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3F_Z470JHGeb_gzmChKYVq1rkTosgqHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280221193821:android:fd2dfa27cbfc0314bc5fb4",
+        "android_client_info": {
+          "package_name": "com.bigdeal.tvwomanskibidimodmelmod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3F_Z470JHGeb_gzmChKYVq1rkTosgqHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280221193821:android:3b622f2634da1936bc5fb4",
+        "android_client_info": {
+          "package_name": "com.bigdeal.ultimategunmelmod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3F_Z470JHGeb_gzmChKYVq1rkTosgqHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280221193821:android:e333be6fe03ce998bc5fb4",
+        "android_client_info": {
+          "package_name": "com.bigdeal.workshopmodmelmod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3F_Z470JHGeb_gzmChKYVq1rkTosgqHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280221193821:android:6f4810c294f1f8fdbc5fb4",
+        "android_client_info": {
+          "package_name": "com.hostell.cartoonstickersforwhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3F_Z470JHGeb_gzmChKYVq1rkTosgqHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280221193821-0t5nvkfdq4et099u4nhm19h0qoak6jtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
